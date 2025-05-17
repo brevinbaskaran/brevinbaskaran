@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brevinbaskaran
-- 👀 I’m a third year Software Engineering student at uOttawa
+- 👀 I’m a fourth year Software Engineering student at uOttawa
 
 
 
